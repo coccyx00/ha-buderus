@@ -1,0 +1,18 @@
+{
+  "domain": "buderus",
+  "name": "Buderus",
+  "version": "0.1.0",
+  "documentation": "https://github.com/coccyx00/ha-buderus",
+  "issue_tracker": "https://github.com/coccyx00/ha-buderus/issues",
+  "dependencies": [],
+  "after_dependencies": [],
+  "codeowners": [
+    "@coccyx00",
+    "@stefanlaheij"
+  ],
+  "requirements": [
+    "voluptuous",
+    "pycryptodome"
+  ],
+  "iot_class": "local_polling"
+}
